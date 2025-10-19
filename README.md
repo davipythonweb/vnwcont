@@ -9,3 +9,11 @@ plataforma web
 - navbar
 - main
 - footer
+
+
+* ferramentas:
+- flask
+- bootstrap
+- sqlalchemy
+- authentication eith jwt
+- sqlite3
